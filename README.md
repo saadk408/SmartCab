@@ -1,4 +1,4 @@
-# SmartCab
+# Smart Cab
 
 ## Getting Started
 
